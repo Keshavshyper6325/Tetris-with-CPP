@@ -1,3 +1,5 @@
+/* Inspired by One Lone Coder on Youtube */
+
 #include <iostream>
 #include <thread>
 #include <vector>
